@@ -2,7 +2,7 @@
 
 A high-performance automation utility for macOS designed for low-latency input simulation and system stress testing. NinoClicker bypasses standard library delays by utilizing the `Quartz.CoreGraphics` framework for direct event injection.
 
-## 🚀 Core Features
+##  Core Features
 * **Quartz Direct Injection:** Optimized God Mode capable of 20,000+ CPS by bypassing the system event loop.
 * **Performance Telemetry:** Real-time HUD (Mapped to `H` key) monitoring CPS throughput and calculated engine load.
 * **Persistence Layer:** Encrypted-style JSON profile management for macros, coordinates, and session history.
