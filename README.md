@@ -15,3 +15,5 @@ Ensure you have Python 3.9+ installed on your macOS environment.
 1. Install dependencies:
    ```bash
    pip install PyQt6 pyautogui pyobjc-framework-Quartz
+*The creater of this bot is no responsible for what it is used for 
+*Example DDos :)
